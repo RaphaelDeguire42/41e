@@ -6,7 +6,7 @@
 
 #### Les étapes d'introduction
 
-vsc visual studio code
+vsc visual studio codex
 
 1. Récupérer localement sur VSC un dépôt sur Github
 2. Créer une branche qui portera votre nom
